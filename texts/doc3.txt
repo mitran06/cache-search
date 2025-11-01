@@ -1,0 +1,2 @@
+least recently used eviction keeps the cache small
+search for words in any of the docs

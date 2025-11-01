@@ -1,0 +1,3 @@
+hash tables are cool
+they map words to files
+recent searches should be fast with a cache
