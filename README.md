@@ -32,6 +32,6 @@ not found
 
 ## How to run
 ```
-$ make cache-search
-$ ./cache-search
+make cache-search
+./cache-search
 ```
